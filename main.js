@@ -1,3 +1,3 @@
 let myFirstName = "Aryan"
 let myLastName = "aryan"
-console.log(myFirstName.padEnd(10, "."))
+console.log(myFirstName.padStart(10, "."))
