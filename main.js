@@ -1,3 +1,3 @@
 let myFirstName = "Aryan"
 let myLastName = "Nagar"
-console.log(myFirstName.indexOf("a"))
+console.log(myFirstName.lastIndexOf("y"))
