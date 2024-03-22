@@ -1,3 +1,4 @@
-let myFirstName = "Aryan"
+let myFirstName = "  Aryan  "
 let myLastName = "Nagar"
-console.log(myFirstName.toUpperCase())
+console.log(myFirstName)
+console.log(myFirstName.trim())
