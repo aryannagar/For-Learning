@@ -1,4 +1,4 @@
-let myFirstName = "  Aryan  "
+let myFirstName = new String("Aryan")
 let myLastName = "Nagar"
-console.log(myFirstName)
-console.log(myFirstName.trimStart())
+console.log(myFirstName.valueOf())
+console.log(myLastName.valueOf())
