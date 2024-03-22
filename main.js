@@ -1,3 +1,3 @@
 let myFirstName = "Aryan"
 let myLastName = "Nagar"
-console.log(myFirstName.endsWith("A"))
+console.log(myFirstName.includes(1))
