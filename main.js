@@ -1,3 +1,3 @@
 let myFirstName = "Aryan"
 let myLastName = "Nagar"
-console.log(myFirstName.charCodeAt(1))
+console.log(myFirstName.codePointAt(1))
