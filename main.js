@@ -1,3 +1,3 @@
 let myFirstName = "Aryan"
 let myLastName = "aryan"
-console.log(myFirstName.repeat(5))
+console.log(myFirstName.replace("A", "T"))
