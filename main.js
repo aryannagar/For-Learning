@@ -1,3 +1,4 @@
 let myFirstName = "Aryan"
 let myLastName = "Nagar"
-console.log(myFirstName.length)
+let myFullName = myFirstName.localeCompare(myLastName)
+console.log(myFullName)
