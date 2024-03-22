@@ -1,3 +1,4 @@
 let myFirstName = "Aryan"
 let myLastName = "Nagar"
-console.log(myFirstName.toLowerCase())
+let myFullName = myFirstName.toString()
+console.log(typeof myFullName)
