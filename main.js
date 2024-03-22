@@ -1,4 +1,4 @@
 let myFirstName = "  Aryan  "
 let myLastName = "Nagar"
 console.log(myFirstName)
-console.log(myFirstName.trim())
+console.log(myFirstName.trimEnd())
