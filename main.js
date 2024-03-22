@@ -1,3 +1,3 @@
 let myFirstName = "Aryan"
-let myLastName = "aryan"
-console.log(myFirstName.startsWith("W"))
+let myLastName = "Nagar"
+console.log(myFirstName.substring(1, 3))
