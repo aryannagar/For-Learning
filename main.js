@@ -1,3 +1,3 @@
 let myFirstName = "Aryan"
 let myLastName = "aryan"
-console.log(myFirstName.padStart(10, "."))
+console.log(myFirstName.repeat(5))
