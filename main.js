@@ -1,2 +1,2 @@
 let newDate = new Date
-console.log(newDate.getTimezoneOffset())
+console.log(newDate.getTimezoneOffset()) 
