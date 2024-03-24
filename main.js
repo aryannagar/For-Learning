@@ -1,2 +1,2 @@
 let newDate = new Date
-console.log(newDate.getMinutes())
+console.log(newDate.getMonth())
