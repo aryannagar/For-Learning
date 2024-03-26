@@ -1,2 +1,2 @@
-let newDate = new Date
-console.log(newDate.setDate(24))
+let newDate = new Date()
+console.log(newDate.setFullYear(1985))
