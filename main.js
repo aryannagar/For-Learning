@@ -1,2 +1,2 @@
 let newDate = new Date
-console.log(newDate.getUTCSeconds())
+console.log(newDate.setDate(24))
