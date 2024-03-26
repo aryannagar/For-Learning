@@ -1,2 +1,2 @@
 let newDate = new Date
-console.log(newDate.getUTCMinutes())
+console.log(newDate.getUTCMonth())
